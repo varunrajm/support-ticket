@@ -6,7 +6,7 @@
 
 ## Executive Summary
 
-This project builds an end-to-end machine learning pipeline that **automatically reads, categorizes, and prioritizes customer support tickets** the instant they arrive — no human sorting required.
+This project builds an end-to-end machine learning pipeline that **automatically reads, categorizes, and prioritizes customer support tickets** the instant they arrive.
 
 | Metric | Result |
 |--------|--------|
